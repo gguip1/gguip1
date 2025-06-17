@@ -1,21 +1,56 @@
-## 👋 About Me
-```Java
-  public interface Developer {
-    String getIntroduction();
-  }
+## 🛠 Tech Stack
 
-  // yes, I know class names should start with a capital letter.
-  // I'm just built different 😎
-  public class gguip1 implements Developer {
-    private final String name = "gguip1";
-    private final String location = "Korea";
+<!-- Languages -->
+<h3 align="center">💻 Languages</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=python" height="48" alt="Python"/><br/>Python
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=java" height="48" alt="Java"/><br/>Java
+      </td>
+    </tr>
+  </table>
+</p>
 
-    @Override
-    public String getIntroduction() {
-      return "Hello, I'm " + name + ". I'm a developer from " + location + ".";
-    }
-  }
-```
+<!-- Frameworks -->
+<h3 align="center">📦 Frameworks</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=django" height="48" alt="Django"/><br/>Django
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=spring" height="48" alt="Spring Boot"/><br/>Spring Boot
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=fastapi" height="48" alt="FastAPI"/><br/>FastAPI
+      </td>
+    </tr>
+  </table>
+</p>
+
+<!-- Database & Infra -->
+<h3 align="center">☁️ Database & Infra</h3>
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=mysql" height="48" alt="MySQL"/><br/>MySQL
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=azure" height="48" alt="Azure"/><br/>Azure
+      </td>
+      <td align="center">
+        <img src="https://skillicons.dev/icons?i=aws" height="48" alt="AWS"/><br/>AWS
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 ## 🌟 GitHub Stats
 <div align="center">
