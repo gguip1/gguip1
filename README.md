@@ -5,7 +5,7 @@
 ### 💻 Languages
 [![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
 ### 📦 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,spring,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,spring)](https://skillicons.dev)
 ### ☁️ Database & Infra
 [![My Skills](https://skillicons.dev/icons?i=mysql,azure,aws)](https://skillicons.dev)
 
