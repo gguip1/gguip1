@@ -2,12 +2,30 @@
 
 <div align="center">
 
-### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
-### 📦 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,spring)](https://skillicons.dev)
-### ☁️ Database & Infra
-[![My Skills](https://skillicons.dev/icons?i=mysql,azure,aws)](https://skillicons.dev)
+<table>
+  <tr>
+    <th>💻 Languages</th>
+    <th>📦 Frameworks</th>
+    <th>☁️ Database & Infra</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=python,java" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=django,spring" />
+      </a>
+    </td>
+    <td>
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=mysql,azure,aws" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 </div>
 
