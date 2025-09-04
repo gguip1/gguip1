@@ -1,15 +1,5 @@
-## 🛠 Tech Stack
-
-<div align="center">
-
-### 💻 Languages
-[![My Skills](https://skillicons.dev/icons?i=python,java)](https://skillicons.dev)
-### 📦 Frameworks
-[![My Skills](https://skillicons.dev/icons?i=django,spring,fastapi)](https://skillicons.dev)
-### ☁️ Database & Infra
-[![My Skills](https://skillicons.dev/icons?i=mysql,azure,aws)](https://skillicons.dev)
-
-</div>
+## 🎲 Feeling Lucky? 
+![Feeling](./assets/512d7a50-7f28-4f72-8f6d-0599ae987ef9.png)
 
 ## 🌟 GitHub Stats
 <div align="center">
