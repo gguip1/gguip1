@@ -19,7 +19,7 @@
 - **Toy Projects Showcase**  
 - **Status:** ✅ Live  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js" height="40" />
 </div>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,mysql,docker,gcp" height="40" />
