@@ -11,6 +11,7 @@
 </div>
 
 **Links**  
+
 🔗 [Live Site](https://aitarot.site) | [Front GitHub Repo](https://github.com/gguip1/ArcanaWhisper-Front) | [Back GitHub Repo](https://github.com/gguip1/ArcanaWhisper-Back)
 
 ---
@@ -26,6 +27,7 @@
 </div>
 
 **Links**
+
 🔗 [Live Site](https://gguip1.github.io/) | [GitHub Repo](https://github.com/gguip1/gguip1.github.io)
 
 ## 📊 GitHub Stats
