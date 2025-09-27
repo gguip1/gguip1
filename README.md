@@ -7,7 +7,7 @@
 - **Status:** ✅ Live
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,docker,aws" height="40" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws" height="40" />
 </div>
 
 **Links**
