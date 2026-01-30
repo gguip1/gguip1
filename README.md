@@ -1,37 +1,12 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=gguip1's%20Github&fontSize=30&animation=fadeIn&fontAlignY=35)
-
-<!-- ## 🚀 Live Services
-
-### 🔮 [ArcanaWhisper](https://aitarot.site)
-- **AI Tarot Card Reading Service**
-- **Status:** ✅ Live
+![header](https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=gguip1's%20Github&fontSize=30&animation=fadeIn&fontAlignY=35&fontColor=70a5fd)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,aws" height="40" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=gguip1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gguip1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
 </div>
 
-**Links**
-
-🔗 [Live Site](https://aitarot.site) | [Front GitHub Repo](https://github.com/gguip1/ArcanaWhisper-Front) | [Back GitHub Repo](https://github.com/gguip1/ArcanaWhisper-Back)
-
----
-
-### 🧸 [장난감 통](https://gguip1.github.io/)
-- **Toy Projects Showcase**
-- **Status:** ✅ Live
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwindcss,js" height="40" />
-</div>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,mysql,docker,gcp" height="40" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gguip1&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
-**Links**
-
-🔗 [Live Site](https://gguip1.github.io/) | [GitHub Repo](https://github.com/gguip1/gguip1.github.io)
-
-## 📊 GitHub Stats
-<div align="center" >
-    <img src="https://github-readme-stats.vercel.app/api?username=gguip1&show_icons=false&theme=dark" alt="gguip1" height="150" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguip1&layout=compact&theme=dark" alt="gguip1" height="150" />
-</div> -->
+![footer](https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=footer)
