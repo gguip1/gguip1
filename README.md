@@ -17,12 +17,8 @@
 <h3 align="center">Projects</h3>
 
 <div align="center">
-  <a href="https://github.com/gguip1/ArcanaWhisper-Back">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&hide_border=true&icon_color=7c3aed&title_color=7c3aed" />
-  </a>
-  <a href="https://github.com/gguip1/wepick-infra">
-    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=wepick-infra&theme=github_dark&hide_border=true&icon_color=7c3aed&title_color=7c3aed" />
-  </a>
+  <a href="https://github.com/gguip1/ArcanaWhisper-Back"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&border_color=30363d&icon_color=7c3aed&title_color=7c3aed&bg_color=0d1117" /></a>
+  <a href="https://github.com/gguip1/wepick-infra"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=wepick-infra&theme=github_dark&border_color=30363d&icon_color=7c3aed&title_color=7c3aed&bg_color=0d1117" /></a>
 </div>
 
 ---
