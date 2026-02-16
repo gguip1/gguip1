@@ -1,12 +1,62 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=200&section=header&text=%EC%9D%B8%EC%83%9D%EC%9D%80%20%EC%8B%A4%ED%8C%A8%EA%B0%80%20%EC%95%84%EB%8B%8C%20%EA%B3%BC%EC%A0%95%EA%B3%BC%20%EC%84%B1%EA%B3%B5%EB%A7%8C%20%EC%9E%88%EC%9D%84%20%EB%BF%90&fontSize=20&animation=fadeIn&fontAlignY=40&fontColor=70a5fd)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:7c3aed&height=220&section=header&text=%EC%9D%B8%EC%83%9D%EC%9D%80%20%EC%8B%A4%ED%8C%A8%EA%B0%80%20%EC%95%84%EB%8B%8C%20%EA%B3%BC%EC%A0%95%EA%B3%BC%20%EC%84%B1%EA%B3%B5%EB%A7%8C%20%EC%9E%88%EC%9D%84%20%EB%BF%90&fontSize=22&animation=fadeIn&fontAlignY=40&fontColor=e2e8f0)
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=gguip1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=gguip1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170" />
+
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjUxMDQ3OTQ3)](https://www.git-ranker.com/users/gguip1)
+
 </div>
+
+---
+
+<h3 align="center">Tech Stack</h3>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gguip1&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+
+**Backend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=python,java,fastapi,django,spring&theme=dark" height="35" />
+
+**Cloud** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,kubernetes&theme=dark" height="35" />
+
+**Etc** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=typescript,react,mysql,redis,git&theme=dark" height="35" />
+
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=1a1b27&height=100&section=footer)
+---
+
+<h3 align="center">Projects</h3>
+
+<div align="center">
+  <a href="https://github.com/gguip1/ArcanaWhisper-Back">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&hide_border=true&icon_color=7c3aed&title_color=7c3aed" />
+  </a>
+  <a href="https://github.com/gguip1/wepick-infra">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=wepick-infra&theme=github_dark&hide_border=true&icon_color=7c3aed&title_color=7c3aed" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gguip1&theme=github-compact&hide_border=true&color=7c3aed&line=7c3aed&point=e2e8f0&area=true&area_color=7c3aed" width="95%" />
+</div>
+
+<!-- Snake Animation (워크플로우 실행 후 표시됨) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gguip1/gguip1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gguip1/gguip1/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/gguip1/gguip1/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+<!-- 3D Contribution (워크플로우 실행 후 표시됨) -->
+<div align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution" width="100%" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gguip1&color=7c3aed&style=flat-square&label=visitors" />
+</div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:161b22,100:0d1117&height=100&section=footer)

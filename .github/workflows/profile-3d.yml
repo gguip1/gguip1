@@ -1,0 +1,31 @@
+# 기여 캘린더를 3D 입체 그래프로 생성합니다.
+# 매일 자동 실행되며, Actions 탭에서 수동 실행도 가능합니다.
+# 결과물은 profile-3d-contrib/ 폴더에 커밋됩니다.
+name: GitHub-Profile-3D-Contrib
+
+on:
+  schedule:
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-3d-contrib
+    steps:
+      - uses: actions/checkout@v5
+      - uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+      - name: Commit & Push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated 3d contribution"; then
+            git push
+          fi
