@@ -8,8 +8,7 @@
     </td>
     <td>
       <b>gguip1</b><br>
-      Backend & Cloud Developer<br>
-      Kakao Tech Bootcamp
+      Backend & Cloud Developer
       <br><br>
       <a href="https://github.com/gguip1/SoundBadge">
         <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E%26list%3DRDdAgY7zUqd8E%26start_radio%3D1&theme=stream" alt="SoundBadge" />
