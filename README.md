@@ -6,12 +6,12 @@
 
 <h2 align="center">About Me</h2>
 
-<div>
-  <img align="left" width="150"
+<div align="center">
+  <img width="150"
        src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=7d"
        alt="profile" />
-
-  <p align="center">
+  <br><br>
+  <p>
     <b>gguip1</b><br>
     Backend &amp; Cloud Developer
   </p>
@@ -45,7 +45,7 @@
 
 <div align="center">
 
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjUxMDQ3OTQ3)](https://www.git-ranker.com/users/gguip1)
+<a href="https://www.git-ranker.com/users/gguip1"><img src="https://www.git-ranker.com/api/v1/badges/MDQ6VXNlcjUxMDQ3OTQ3" height="165" /></a>
 <img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=gguip7554" height="165" />
 
 </div>
