@@ -35,8 +35,8 @@
 <h2 align="center">Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/gguip1/ArcanaWhisper-Back"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117" height="195" /></a>
-  <a href="https://github.com/gguip1/SoundBadge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=SoundBadge&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117" height="195" /></a>
+  <a href="https://github.com/gguip1/ArcanaWhisper-Back"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=ArcanaWhisper-Back&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117" width="400" /></a>
+  <a href="https://github.com/gguip1/SoundBadge"><img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=gguip1&repo=SoundBadge&theme=github_dark&border_color=30363d&icon_color=1f6feb&title_color=1f6feb&bg_color=0d1117" width="400" /></a>
 </div>
 
 <br>
