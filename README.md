@@ -1,21 +1,25 @@
 <h2 align="center">About Me</h2>
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="190" valign="middle">
-      <img width="150" src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=7d" alt="profile" />
-      </td>
-      <td valign="middle">
-      <b>gguip1</b><br/>
-      Backend &amp; Cloud Developer<br/><br/>
-      <a href="https://github.com/gguip1/SoundBadge">
-      <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E%26list%3DRDdAgY7zUqd8E%26start_radio%3D1&theme=stream" alt="SoundBadge" />
-      </a>
-      </td>
-    </tr>
-  </table>
-<br clear="both" />
-<br/>
 
+<table align="center" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="190" valign="middle">
+      <img width="150"
+           src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=7d"
+           alt="profile" />
+    </td>
+    <td valign="middle">
+      <b>gguip1</b><br/>
+      Backend &amp; Cloud Developer<br/>
+      Kakao Tech Bootcamp<br/><br/>
+      <a href="https://github.com/gguip1/SoundBadge">
+        <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E%26list%3DRDdAgY7zUqd8E%26start_radio%3D1&theme=stream"
+             alt="SoundBadge" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
 
 <h2 align="center">Tech Stack</h2>
 
