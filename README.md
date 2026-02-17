@@ -1,25 +1,22 @@
+<div align="center">
+  <a href="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E&theme=terminal"><img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E&theme=terminal" alt="SoundBadge" /></a>
+</div>
+
+<br>
+
 <h2 align="center">About Me</h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="190" valign="middle">
-      <img width="150"
-           src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=7d"
-           alt="profile" />
-    </td>
-    <td valign="middle">
-      <b>gguip1</b><br/>
-      Backend &amp; Cloud Developer<br/>
-      Kakao Tech Bootcamp<br/><br/>
-      <a href="https://github.com/gguip1/SoundBadge">
-        <img src="https://sound-badge.vercel.app/api/card.svg?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DdAgY7zUqd8E%26list%3DRDdAgY7zUqd8E%26start_radio%3D1&theme=stream"
-             alt="SoundBadge" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div>
+  <img align="left" width="150"
+       src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=7d"
+       alt="profile" />
 
-<br/>
+  <p align="center">
+    <b>gguip1</b><br>
+    Backend &amp; Cloud Developer
+  </p>
+</div>
+<br clear="both">
 
 <h2 align="center">Tech Stack</h2>
 
@@ -27,9 +24,9 @@
 
 **Backend** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=python,java,fastapi,django,spring&theme=dark" height="35" />
 
-**Cloud** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,gcp,docker,terraform,kubernetes&theme=dark" height="35" />
+**Cloud** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=aws,docker,terraform,kubernetes&theme=dark" height="35" />
 
-**Etc** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=typescript,react,mysql,redis,git&theme=dark" height="35" />
+**Etc** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=mysql,redis,git&theme=dark" height="35" />
 
 </div>
 
