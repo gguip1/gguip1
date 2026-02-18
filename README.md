@@ -8,8 +8,8 @@
 
 <div align="center">
   <img width="150"
-       src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=7d"
-       alt="profile" />
+    src="https://images.weserv.nl/?url=github.com/gguip1.png&fit=cover&mask=circle&maxage=1d&v=20260218"
+    alt="profile" />
   <br><br>
   <p>
     <b>gguip1</b><br>
