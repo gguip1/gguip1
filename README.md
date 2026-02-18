@@ -15,6 +15,7 @@
     <b>gguip1</b><br>
     Backend &amp; Cloud Developer
   </p>
+  <a href="https://velog.io/@gguip/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white" /></a>
 </div>
 <br clear="both">
 
