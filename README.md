@@ -1,7 +1,7 @@
 <h1 align="center">👋 gguip1</h1>
 
 <p align="center">
-  Backend systems · Cloud infrastructure · AI-assisted workflows
+  Backend systems · Cloud infrastructure
 </p>
 
 <p align="center">
